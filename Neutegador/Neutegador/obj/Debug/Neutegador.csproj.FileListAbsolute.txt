@@ -1,0 +1,10 @@
+C:\Users\Ilton B silva\source\repos\Neutegador\Neutegador\bin\Debug\Neutegador.exe.config
+C:\Users\Ilton B silva\source\repos\Neutegador\Neutegador\bin\Debug\Neutegador.exe
+C:\Users\Ilton B silva\source\repos\Neutegador\Neutegador\bin\Debug\Neutegador.pdb
+C:\Users\Ilton B silva\source\repos\Neutegador\Neutegador\obj\Debug\Neutegador.csprojAssemblyReference.cache
+C:\Users\Ilton B silva\source\repos\Neutegador\Neutegador\obj\Debug\Neutegador.Properties.Resources.resources
+C:\Users\Ilton B silva\source\repos\Neutegador\Neutegador\obj\Debug\Neutegador.csproj.GenerateResource.cache
+C:\Users\Ilton B silva\source\repos\Neutegador\Neutegador\obj\Debug\Neutegador.csproj.CoreCompileInputs.cache
+C:\Users\Ilton B silva\source\repos\Neutegador\Neutegador\obj\Debug\Neutegador.exe
+C:\Users\Ilton B silva\source\repos\Neutegador\Neutegador\obj\Debug\Neutegador.pdb
+C:\Users\Ilton B silva\source\repos\Neutegador\Neutegador\obj\Debug\Neutegador.Neutegador.resources
